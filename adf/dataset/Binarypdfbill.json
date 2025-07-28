@@ -1,0 +1,18 @@
+{
+	"name": "Binarypdfbill",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "copytest1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "BasicEducationActNo_14of2013.pdf",
+				"fileSystem": "bronze"
+			}
+		}
+	}
+}

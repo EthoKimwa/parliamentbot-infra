@@ -1,0 +1,9 @@
+{
+	"name": "Edubill",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de065448-988f-42b9-934b-a356d2328e38",
+		"tenantId": "66643857-1c5d-4cf7-8da1-03385e1ed45d"
+	}
+}
